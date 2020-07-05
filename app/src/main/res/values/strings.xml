@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Convertor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">Result</string>
+    <string name="take_a_picture_go_invoice_to_save_this"><u>Take a picture go invoice to save this</u></string>
+</resources>
+
+
+
